@@ -1,8 +1,6 @@
 # About
 
-Hi, I'm the author behind **fast-blog** — a minimalist corner of the internet where I write about software, design, and the pursuit of simplicity.
-
-This blog is intentionally simple. No analytics, no tracking, no comment sections. Just words on a page. Every post is a plain Markdown file, version-controlled and easy to edit.
+Hi, I'm Yun, love sharing my attitude in here!
 
 ## The Philosophy
 
